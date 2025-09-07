@@ -72,9 +72,9 @@ Miniproject/
 4) Delete student
 0) Exit
    Select: 1
-   Name  : Alice
-   Email : alice@example.com
-   Course: Computer Science
+   Name  : Kavindu
+   Email : kavindugamhatha@gmail.com
+   Course: EIT
    Added.
 ```
 #### Listing students
@@ -88,7 +88,7 @@ Miniproject/
 Select: 2
 ID   | NAME   | EMAIL               | COURSE
 -----------------------------------------------
-1    | Alice  | alice@example.com   | Computer Science
+1    | Kavindu  | kavindugamhatha@gmail.com   | EIT
 
 ```
 #### Notes
