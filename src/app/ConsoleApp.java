@@ -13,7 +13,7 @@ public class ConsoleApp {
         Database.init(); // ensure table exists
 
         while (true) {
-            System.out.println("\n=== Student Database App ===");
+            System.out.println("\n== Student Database App ==");
             System.out.println("1) Add student");
             System.out.println("2) List students");
             System.out.println("3) Update student");
