@@ -1,4 +1,4 @@
-# Miniproject (Java + MariaDB/MySQL)
+# Miniproject (Java + MySQL)
 
 A simple console-based Java application to manage students with **CRUD** operations (Create, Read, Update, Delete).  
 Built using plain Java (no Maven/Gradle) in IntelliJ IDEA, with MariaDB/MySQL as the database.
